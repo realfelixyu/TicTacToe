@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TicTacToeServer:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf80e19-0629-4657-9c93-9662d4a4ff6f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j5j8wQLvfiaurRQlCprRQePFH3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +31,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,13 +66,37 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="562" y="231" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1603100696625" />
+    <state x="424" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603438844408">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603438844408" />
+    <state x="719" y="409" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1603438547381">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="719" y="409" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603438547381" />
+    <state x="775" y="282" key="#com.intellij.ide.util.MemberChooser" timestamp="1603359022953">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="775" y="282" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1603359022953" />
+    <state x="700" y="356" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603438772195">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="700" y="356" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603438772195" />
+    <state x="750" y="327" key="FileChooserDialogImpl" timestamp="1603441000436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="750" y="327" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1603441000436" />
+    <state x="470" y="151" key="SettingsEditor" timestamp="1603441080424">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="470" y="151" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603441080424" />
     <state x="666" y="397" key="com.intellij.ide.util.TipDialog" timestamp="1603358221370">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="666" y="397" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603358221370" />
-    <state x="633" y="271" width="672" height="678" key="search.everywhere.popup" timestamp="1603358329730">
+    <state x="633" y="271" width="672" height="678" key="search.everywhere.popup" timestamp="1603432310193">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="633" y="271" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603358329730" />
+    <state x="633" y="271" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603432310193" />
   </component>
 </project>
